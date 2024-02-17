@@ -1,4 +1,2 @@
 
 print("Hola")
-
-print("HOLA")
